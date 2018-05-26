@@ -1,1 +1,5 @@
-class radio_button_tag
+class Dog
+  def bark
+  puts "Woof!"
+  end
+end
